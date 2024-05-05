@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708525708461",
+    "project_id": "meetease-bdf4b",
+    "storage_bucket": "meetease-bdf4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708525708461:android:2e69b81147e5b8c8792224",
+        "android_client_info": {
+          "package_name": "com.example.meetease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708525708461-slop5qd4i5u34rakaho0hkooe5349gvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meetease",
+            "certificate_hash": "8dd56ca943ceddd3dae41c3ae86ff169c913074e"
+          }
+        },
+        {
+          "client_id": "708525708461-rhc3g4ight2bog2ms6hi29h5rp1ci04q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWquDlU4LhqgE5aVwxizb-RhTuU0PS9Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708525708461-rhc3g4ight2bog2ms6hi29h5rp1ci04q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
